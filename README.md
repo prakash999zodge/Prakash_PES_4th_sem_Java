@@ -39,3 +39,7 @@ All java programs here
     -> 10) SumOfPositiveNum
     -> 11) TableOf
 ***********************************************************
+25/05/2021
+    -> 1) Armstrong
+    -> 2) CompoundInterest
+    -> 3) CourseInstructor
